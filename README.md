@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website built as part of my **CodeAlpha Web Development Internship** (Task 4).
 
-🔗 **Komal Batool:** https://Komal Batool.github.io/CodeAlpha_Portfolio/
+🔗 **Komal Batool:** https://komal54175.github.io/CodeAlpha_Portfolio/
 
 ## About the Project
 Ye website meri skills, projects aur contact details ek jagah dikhane ke liye banayi gayi hai. Isme clean layout hai aur ye mobile aur desktop dono par theek chalti hai.
@@ -29,13 +29,13 @@ CodeAlpha_Portfolio/
 ## How to Run Locally
 1. Repository clone karein:
    ```
-   Komal Batool https://github.com/Komal Batool/CodeAlpha_Portfolio.git
+   Komal54175 https://github.com/Komal54175/CodeAlpha_Portfolio.git
    ```
 2. Folder mein ja kar `index.html` ko browser mein open karein.
 
 ## Author
 **Komal Batool**
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Komal54175
 - LinkedIn: https://www.linkedin.com/in/komal-batool-521850366/
 
 ## Internship
