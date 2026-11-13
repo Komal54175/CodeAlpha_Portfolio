@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive personal portfolio website built as part of my **CodeAlpha Web Development Internship** (Task 4).
+A responsive personal portfolio website built as part of my **CodeAlpha Web Development Internship** (Task 3).
 
 🔗 **Komal Batool:** https://komal54175.github.io/CodeAlpha_Portfolio/
 
@@ -39,4 +39,4 @@ CodeAlpha_Portfolio/
 - LinkedIn: https://www.linkedin.com/in/komal-batool-521850366/
 
 ## Internship
-Ye project **CodeAlpha** internship ke Task 4 ka hissa hai.
+Ye project **CodeAlpha** internship ke Task 3 ka hissa hai.
